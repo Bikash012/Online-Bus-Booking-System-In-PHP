@@ -1,0 +1,21 @@
+.form-container{
+    padding-top: 8%;
+}
+.inner-container{
+    background: #808080c7;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    border-radius: 20px;
+}
+.bold{
+    font-weight: bold;
+}
+.custom-card{
+    background: #bf3a48;
+    color: white;
+    border-radius: 10px;
+    height: 108px;
+    
+}
